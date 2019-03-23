@@ -5,8 +5,12 @@ dhdjencode是一个高性能的高安全性加密算法（由著名架构师、�
 
 Todo lists:
 
-   PHP
-√  Python
+√  PHP
+
+   Python
+   
    Javascipt
+   
    Java
+   
    C#
