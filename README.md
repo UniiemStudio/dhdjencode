@@ -12,3 +12,7 @@ dhdjencode是一个高性能的高安全性加密算法（由著名架构师、�
 * [ ] Java
 * [ ] C#
 * [ ] Rust
+
+## License
+
+Dhdjencode is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
