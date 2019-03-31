@@ -1,0 +1,29 @@
+{
+  "name": "dhdjencode",
+  "version": "1.0.0",
+  "description": "高性能的高安全性加密算法",
+  "main": "dhdjencode.js",
+  "scripts": {
+    "start": "node dhdjencode.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhdjfoundation/dhdjencode.git"
+  },
+  "keywords": [
+    "dhdj"
+  ],
+  "author": "lixworth <@dhdjdoundation>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhdjfoundation/dhdjencode/issues"
+  },
+  "homepage": "https://github.com/dhdjfoundation/dhdjencode#readme",
+  "dependencies": {
+    "base64-url": "^2.2.1",
+    "md5": "^2.2.1",
+    "sha1": "^1.1.1",
+    "substr": "0.0.4",
+    "urlencode": "^1.1.0"
+  }
+}

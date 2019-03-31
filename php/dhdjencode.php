@@ -11,4 +11,4 @@ function dhdjencode($str){
     return $content;
 }
 
-//echo dhdjencode("Hacking to the Gate.");
+echo dhdjencode("Hacking to the Gate."); //ep
